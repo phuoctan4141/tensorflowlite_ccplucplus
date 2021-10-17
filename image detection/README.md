@@ -115,4 +115,4 @@ void AnnotateMat(Mat &mat)
 ```
 
 # Run the code:
-`gcc -I/usr/local/include -I/usr/include/opencv4 -L/lib img_detection.cpp -o test -lstdc++ -ltensorflowlite -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lopencv_videoio -lopencv_highgui`
+`gcc -I/usr/local/include -I/usr/include/opencv4 -L/lib img_detection.cpp -o test_code -lstdc++ -ltensorflowlite -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lopencv_videoio -lopencv_highgui`
