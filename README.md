@@ -7,3 +7,5 @@ Tensorflowlite C/C++
 3. Cài đặt thư viện vói dòng lệnh sau (chỉ dùng trên linux): `sudo tar -C /usr/local -xzf (tệp tin .tar.gz)` \
 Hoặc tham khảo thêm tại [Install TensorFlow for C](https://www.tensorflow.org/install/lang_c)
 
+![DamTV DETECTED](https://github.com/phuoctan4141/tensorflowlite_ccplucplus/blob/main/img/damtv_detected.jpg)
+
